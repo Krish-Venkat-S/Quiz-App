@@ -1,4 +1,4 @@
-## Countdown Timer
+## Quiz App
 
 ### Built Using
  <ul>
